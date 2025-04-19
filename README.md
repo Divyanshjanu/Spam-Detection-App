@@ -4,7 +4,7 @@ A real-time Spam Detection Web App using XGBoost and Logistic Regression, built 
 
 ---
 
-# 🔗 Live Demo Links
+#  Live Demo Links
 
 - **Backend (FastAPI Base URL):**  
   [Backend API](https://app-backend-1027897761252.northamerica-northeast1.run.app)
